@@ -21,7 +21,6 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 
 ## 📊 Featured Repositories with Projects and Case Studies
 
-
 [![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
 [![PySpark Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=Pyspark_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/Pyspark_Projects)
 
