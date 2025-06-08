@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there! 👋 I'm Sukhpreet Singh
 
 ---
@@ -6,8 +8,8 @@
 
 I'm a passionate **Junior Data Engineer** building expertise in data pipelines, cloud technologies, and analytics. I love turning messy data into clean, structured information that drives business decisions.
 
-- 🔭 Currently working on: **Building scalable data pipelines**
-- 🌱 Learning: **Spark, Apache Kafka, Advanced SQL, Cloud Architecture**
+- 🔭 Currently working on: **Building scalable data pipelines and data transformations**
+- 🌱 Learning: **Apache Kafka, Advanced SQL, Cloud Architecture**
 - 💬 Ask me about: **Data pipelines, Python, SQL, Data visualization**
 
 ---
@@ -23,7 +25,6 @@ I'm a passionate **Junior Data Engineer** building expertise in data pipelines, 
 **Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Analytics & Visualization**
