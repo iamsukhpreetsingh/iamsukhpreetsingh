@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhpreet41/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_Now-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1eYrM5aKGdqq_lF8Vpm3H4MnTLovNV7gu)
+
 
 </div>
 
@@ -28,6 +30,9 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 ---
 ## 💼 Work Experience:
 ### 🏢 SparkBrains - Junior Data Engineer
+### 📅 May 2025 - Present
+
+**Tech Stack:** `PySpark` `Python` `SQL` `PostgreSQL`
 
 ### Roles & Responsibilities:
 
