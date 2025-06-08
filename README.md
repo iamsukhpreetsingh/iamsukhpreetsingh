@@ -26,8 +26,10 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 
 
 ---
+## 💼 Work Experience:
+### 🏢 SparkBrains - Junior Data Engineer
 
-## Roles & Responsibilities:
+### Roles & Responsibilities:
 
 - Develop ETL pipelines and Complex Transformations using PySpark to process large volumes of structured and semi-structured data from diverse sources.
 - Write SQL queries for data extraction, transformation, and loading tasks across various relational and distributed data systems.
