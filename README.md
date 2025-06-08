@@ -13,7 +13,9 @@
 
 I'm a passionate **Junior Data Engineer** building expertise in data pipelines, cloud technologies, and analytics. I love turning messy data into clean, structured information that drives business decisions.
 
-- 🔭 Currently working on: **Building scalable data pipelines and data transformations**
+- 🔭 Currently working on:![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 - 🌱 Learning: **Apache Kafka, Advanced SQL, Cloud Architecture**
 - 💬 Ask me about: **Data pipelines, Python, SQL, Data visualization**
 
@@ -25,26 +27,6 @@ I'm a passionate **Junior Data Engineer** building expertise in data pipelines, 
 [![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
 [![PySpark Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=Pyspark_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/Pyspark_Projects)
 
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Analytics & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ---
 
