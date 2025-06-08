@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Sukhpreet Singh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sukhpreet41/](https://www.linkedin.com/in/sukhpreet41/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhpreet41/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
 
 </div>
