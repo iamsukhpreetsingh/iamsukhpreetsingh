@@ -32,40 +32,35 @@ I'm a passionate **Junior Data Engineer** building expertise in data pipelines, 
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Projects 
 
-### 🏗️ Real-time Data Pipeline
-**Tech:** `Python` `Apache Kafka` `PostgreSQL` `Docker`
-
-Built an end-to-end streaming pipeline processing 10K+ events/minute with automated data validation and 40% improved latency.
-
-[🔗 View Project](link-to-repo)
-
-### 📈 E-commerce Analytics Dashboard
-**Tech:** `Python` `SQL` `Tableau` `AWS`
-
-Developed ETL pipeline and interactive dashboards for transaction data analysis, enabling 15% revenue increase through data-driven insights.
-
-[🔗 View Project](link-to-repo)
-
-### 🤖 Customer Churn Prediction
-**Tech:** `Python` `Scikit-learn` `Apache Spark`
-
-Built ML pipeline with feature engineering achieving 85% accuracy in churn prediction, deployed via containerized microservices.
-
-[🔗 View Project](link-to-repo)
-
----
-
-## 📈 GitHub Stats
+## 📌 Pinned Repositories
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsukhpreetsingh&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsukhpreetsingh&layout=compact&theme=radical&hide_border=true)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&SQL_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&Pyspark_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/Pyspark_Projects)
 
 </div>
+
+### 🏗️ Sales Analysis using PySpark (Databricks)
+**Tech:** `Python` `PySpark` `Data Bricks` `Data Analysis` 
+
+• Ingested and processed data from AWS S3 (CSV) and Azure ADLS (CSV), handling schema differences and transforming raw data into meaningful and useful data using Spark transformations.
+• Used PySpark (DataBricks) to transform and analyze sales and menu data for actionable insights.
+• Calculated total spending by customers, monthly sales, and product purchase trends.
+• Identified customer visit frequency, top spenders, and other KPIs.
+• Handled data schema definition and type conversion for accurate analysis.
+[🔗 View Project](link-to-repo)
+
+### 📈 Vehicles MPG dataset analysis using Numpy and Pandas
+**Tech:** `Python` `SQL` `Pandas` `Data Analysis`
+
+• Conducted Data Cleaning - removing unwanted/duplicated data for accurate analysis
+• Conducted analysis (EDA) of data to find trends and uncovered the fuel efficiency of a vehicle
+• Identified key factors influencing miles per gallon (MPG) such as engine size, horsepower, and vehicle weight
+[🔗 View Project](link-to-repo)
+
 
 ---
 
