@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! 👋 I'm Sukhpreet Singh
-
+</div>
 ---
 
 ## 🎯 About Me
