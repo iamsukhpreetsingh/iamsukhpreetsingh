@@ -1,5 +1,12 @@
+<div align="center">
 
 # Hi there! 👋 I'm Sukhpreet Singh
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sukhpreet41/))
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
+
+</div>
+
 ---
 
 ## 🎯 About Me
@@ -14,12 +21,10 @@ I'm a passionate **Junior Data Engineer** building expertise in data pipelines, 
 
 ## 📊 Featured Repositories with Projects and Case Studies
 
-<div align="center">
 
 [![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
 [![PySpark Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=Pyspark_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/Pyspark_Projects)
 
-</div>
 
 ---
 
@@ -47,9 +52,3 @@ I'm a passionate **Junior Data Engineer** building expertise in data pipelines, 
 
 Always excited to collaborate on data projects or discuss the latest in data engineering!
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sukhpreet41/))
-[![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
-
-</div>
