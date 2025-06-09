@@ -27,7 +27,7 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 [![PySpark Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=Pyspark_Projects&cache_seconds=1&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/Pyspark_Projects)
 
 <a href="https://github.com/iamsukhpreetsingh/SQL_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsukhpreetsingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SQL Projects" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/iamsukhpreetsingh/Pyspark_Projects">
