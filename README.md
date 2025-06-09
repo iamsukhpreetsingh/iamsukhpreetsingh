@@ -25,13 +25,12 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 
 [![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
 [![PySpark Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=Pyspark_Projects&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/Pyspark_Projects)
-[![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&cache_seconds=1
-&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
+[![SQL Projects](https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&cache_seconds=1&theme=radical&hide_border=true)](https://github.com/iamsukhpreetsingh/SQL_Projects)
 
 ---
 ## 💼 Work Experience:
 ### 🏢 SparkBrains - Junior Data Engineer
-    📅 May 2025 - Present
+📅 May 2025 - Present
 
 **Tech Stack:** `PySpark` `Python` `SQL` `PostgreSQL`
 
