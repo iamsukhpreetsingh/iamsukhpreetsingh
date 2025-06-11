@@ -35,7 +35,7 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 
 ---
 ## 💼 Work Experience:
-### 🏢 SparkBrains - Junior Data Engineer
+### 🏢 SparkBrains - Data Engineer Intern
 📅 May 2025 - Present
 
 **Tech Stack:** `PySpark` `Python` `SQL` `PostgreSQL`
