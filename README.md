@@ -42,10 +42,20 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 
 ### Roles & Responsibilities:
 
-- Develop ETL pipelines and Complex Transformations using PySpark to process large volumes of structured and semi-structured data from diverse sources.
+- Write Complex Transformations using PySpark to process large volumes of structured and semi-structured data from diverse sources.
 - Write SQL queries for data extraction, transformation, and loading tasks across various relational and distributed data systems.
 - Assist in data quality checks and validation by implementing logic to handle nulls, duplicates, schema mismatches, and other inconsistencies during data ingestion.
 - Collaborate with data analysts and senior engineers to understand business requirements and ensure the data infrastructure supports reporting and analytics.
+
+---
+### 🏢 Kontinuum Kode - Business Development Executive
+📅 June 2024 - April 2025
+
+### Roles & Responsibilities:
+
+- Lead Generation through portals like UpWork and PeoplePerHour.
+- Tailored Proposal Writing.
+- Creating SRS & BRD Documents.
 
 ---
 
