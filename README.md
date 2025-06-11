@@ -17,7 +17,7 @@ I'm a **Junior Data Engineer** building expertise in data pipelines, cloud techn
 
 - 🔭 Currently working on: **PySpark, SQL, Data Transformations**
 - 🌱 Learning: **Apache Kafka, Advanced SQL, Cloud Architecture**
-- 💬 Ask me about: **Data pipelines, Python, SQL, Data visualization**
+- 💬 Ask me about: **Data pipelines, Python, SQL**
 
 ---
 
