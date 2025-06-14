@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-I'm a **Junior Data Engineer** building expertise in data pipelines, cloud technologies, and analytics. I love turning messy data into clean, structured information that drives business decisions.
+I'm a **Data Engineer Intern** at SparkBrains, building expertise in data pipelines, cloud technologies, and analytics. I love turning messy data into clean, structured information that drives business decisions.
 
 - 🔭 Currently working on: **PySpark, SQL, Data Transformations**
 - 🌱 Learning: **Apache Kafka, Advanced SQL, Cloud Architecture**
