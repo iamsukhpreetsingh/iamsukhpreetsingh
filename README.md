@@ -21,15 +21,13 @@ I'm a **Data Engineer Intern** at SparkBrains, building expertise in data pipeli
 
 ---
 
-## 📊 Featured Repositories with Projects and Case Studies
+## 📁 Projects
 
-<a href="https://github.com/iamsukhpreetsingh/SQL_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=SQL_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/iamsukhpreetsingh/Pyspark_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamsukhpreetsingh&repo=Pyspark_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+| Project Name | Technologies used | Link |
+|--------------|-------------|------|
+| **Project 1: Enviornment Data Refresh Automation POC** | Snowflake, AWS | [View Project](https://github.com/iamsukhpreetsingh/snowflake_project/tree/main/enviornment_refresh_automation) |
+| **Project 2: Secure Data Sharing POC** | Snowflake, AWS | [View Project](https://github.com/sukhpreet-sparkbrains/data_engineering/tree/main/Snowflake_projects_and_POCs/secure_data_sharing) |
+| **Project 3: Snowflake and DBT implemetation POC** | Snowflake, AWS, DBT | [View Project](https://github.com/iamsukhpreetsingh/snowflake_project/tree/main/Snowflake_dbt_POC) |
 
 
 
