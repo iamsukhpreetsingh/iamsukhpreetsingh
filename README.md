@@ -13,9 +13,8 @@
 
 ## 🎯 About Me
 
-I'm a **Data Engineer Intern** at SparkBrains, building expertise in data pipelines, cloud technologies, and analytics. I love turning messy data into clean, structured information that drives business decisions.
-
-- 🔭 Currently working on: **PySpark, SQL, Data Transformations**
+I'm a **Data Engineer Intern** at SparkBrains, building expertise in data pipelines, cloud technologies, and analytics. 
+- 🔭 Currently working on: **PySpark, AWS, Snowflake, SQL, Data Transformations**
 - 🌱 Learning: **Apache Kafka, Advanced SQL, Cloud Architecture**
 - 💬 Ask me about: **Data pipelines, Python, SQL**
 
