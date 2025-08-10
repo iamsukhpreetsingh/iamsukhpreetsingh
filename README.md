@@ -35,7 +35,7 @@ I'm a **Data Engineer Intern** at SparkBrains, building expertise in data pipeli
 ### 🏢 SparkBrains - Data Engineer Intern
 📅 May 2025 - Present
 
-**Tech Stack:** `PySpark` `Python` `SQL` `PostgreSQL`
+**Tech Stack:** `SQL` `PySpark` `Snowflake` `Python` `PostgreSQL`
 
 ### Roles & Responsibilities:
 
