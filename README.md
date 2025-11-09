@@ -11,50 +11,62 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me:
 
-I'm a **Data Engineer Intern** at SparkBrains, building expertise in data pipelines, cloud technologies, and analytics. 
-- 🔭 Currently working on: **PySpark, AWS, Snowflake, SQL, Data Transformations**
-- 🌱 Learning: **Apache Kafka, Advanced SQL, Cloud Architecture**
-- 💬 Ask me about: **Data pipelines, Python, SQL**
+I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on experience in building ETL/ELT pipelines, leveraging technologies like `PySpark`, `SQL`, `AWS`, `DBT` and `Snowflake` to transform raw data into actionable insights. 
+
+Core Competencies: Data Pipeline Development • Cloud Architecture • Data Modeling • Performance Optimization • Cross-functional Collaboration
+
+---
+
+## 🏆 Certifications:
+- [SnowPro Associate - Snowflake](https://achieve.snowflake.com/eb7ff57a-6c21-4eb5-9b8d-9c1f0ac051ec#acc.OEDkA9lR)
+
 
 ---
 
-## 📁 Projects
-
-| Project Name | Technologies used | Link |
-|--------------|-------------|------|
-| **Project 1: Enviornment Data Refresh Automation POC** | Snowflake, AWS | [View Project](https://github.com/iamsukhpreetsingh/snowflake_project/tree/main/enviornment_refresh_automation) |
-| **Project 2: Secure Data Sharing POC** | Snowflake, AWS | [View Project](https://github.com/sukhpreet-sparkbrains/data_engineering/tree/main/Snowflake_projects_and_POCs/secure_data_sharing) |
-| **Project 3: Snowflake and DBT implemetation POC** | Snowflake, AWS, DBT | [View Project](https://github.com/iamsukhpreetsingh/snowflake_project/tree/main/Snowflake_dbt_POC) |
-
-
-
----
-## 💼 Work Experience:
-### 🏢 SparkBrains - Data Engineer Intern
+## Professional Experience:
+### Junior Data Engineer | SparkBrains
 📅 May 2025 - Present
 
 **Tech Stack:** `SQL` `PySpark` `Snowflake` `Python` `PostgreSQL`
 
 ### Roles & Responsibilities:
 
-- Write Complex Transformations using PySpark to process large volumes of structured and semi-structured data from diverse sources.
-- Write SQL queries for data extraction, transformation, and loading tasks across various relational and distributed data systems.
-- Assist in data quality checks and validation by implementing logic to handle nulls, duplicates, schema mismatches, and other inconsistencies during data ingestion.
-- Collaborate with data analysts and senior engineers to understand business requirements and ensure the data infrastructure supports reporting and analytics.
+- Developing SQL and PySpark scripts to build aggregated views in Hive, enabling the BI team to generate accurate business insights.
+- Designing and implemented staging ETL data pipelines using PySpark and Jupyter Notebooks, integrating data from diverse sources including APIs, JSON, Excel, and CSV files, and loading them into HDFS.
+- Performing data unification and integration tasks in the staging environment, improving data consistency and reliability across systems.
+- Preforming data mapping from diverse sources data like advertisement, suppliers, imports/exports data, etc and preforming data validations on the given data.
+- Appling PySpark-based data transformation techniques to cleanse, normalize, and enrich large-scale datasets, ensuring high-quality data for downstream analytics.
 
 ---
-### 🏢 Kontinuum Kode - Business Development Executive
+### Business Development Executive | Kontinuum Kode
 📅 June 2024 - April 2025
 
 ### Roles & Responsibilities:
 
-- Lead Generation through portals like UpWork and PeoplePerHour.
-- Tailored Proposal Writing.
-- Creating SRS & BRD Documents.
+- Generated 70+ qualified leads through strategic outreach on Upwork and PeoplePerHour platforms.
+- Crafted technical proposals and maintained client relationships resulting in 5 successful project acquisitions.
+- Authored comprehensive SRS (Software Requirements Specification) and BRD (Business Requirements Document) documentation.
 
 ---
+
+## 📁 Personal Projects/POCs:
+
+| Project Name | Technologies used | Link |
+|--------------|-------------|------|
+| **Project 1: End-to-End API & XML data pipeling POC** | Postgres, SQL, Python, XML, JSON | [View Project](https://github.com/iamsukhpreetsingh/etl_api_xml) |
+| **Project 2: Secure Data Sharing POC** | Snowflake, AWS | [View Project](https://github.com/sukhpreet-sparkbrains/data_engineering/tree/main/Snowflake_projects_and_POCs/secure_data_sharing) |
+| **Project 3: Snowflake and DBT implemetation POC** | Snowflake, AWS, DBT | [View Project](https://github.com/iamsukhpreetsingh/snowflake_project/tree/main/Snowflake_dbt_POC) |
+
+
+---
+
+## 🎓 Education:
+Bachelor of Engineering (B.E.) in Computer Science
+[Chandigarh University] | [2020-2024]
+
+
 
 ## 🤝 Let's Connect!
 
