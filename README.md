@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 About Me:
+## About Me:
 
 I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on experience in building ETL/ELT pipelines, leveraging technologies like `PySpark`, `SQL`, `AWS`, `DBT` and `Snowflake` to transform raw data into actionable insights. 
 
@@ -19,7 +19,7 @@ Core Competencies: Data Pipeline Development • Cloud Architecture • Data Mod
 
 ---
 
-## 🏆 Certifications:
+## Certifications:
 - [SnowPro Associate - Snowflake](https://achieve.snowflake.com/eb7ff57a-6c21-4eb5-9b8d-9c1f0ac051ec#acc.OEDkA9lR)
 
 
@@ -62,13 +62,13 @@ Core Competencies: Data Pipeline Development • Cloud Architecture • Data Mod
 
 ---
 
-## 🎓 Education:
+## Education:
 Bachelor of Engineering (B.E.) in Computer Science  
 Chandigarh University | 2020-2024
 
 
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 Always excited to collaborate on data projects or discuss the latest in data engineering!
 
