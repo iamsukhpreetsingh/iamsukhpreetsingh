@@ -64,7 +64,7 @@ Core Competencies: Data Pipeline Development • Cloud Architecture • Data Mod
 
 ## 🎓 Education:
 Bachelor of Engineering (B.E.) in Computer Science
-[Chandigarh University] | [2020-2024]
+Chandigarh University | 2020-2024
 
 
 
