@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhpreet41/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_Now-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1eYrM5aKGdqq_lF8Vpm3H4MnTLovNV7gu)
+[![Resume](https://img.shields.io/badge/Resume-Download_Now-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1dz0vH6DsMrVCfLsmeDjbMvyHxpiGhxJa?usp=drive_link)
 
 
 </div>
@@ -39,7 +39,6 @@ Core Competencies: Data Pipeline Development • Cloud Architecture • Data Mod
 - Preforming data mapping from diverse sources data like advertisement, suppliers, imports/exports data, etc and preforming data validations on the given data.
 - Appling PySpark-based data transformation techniques to cleanse, normalize, and enrich large-scale datasets, ensuring high-quality data for downstream analytics.
 
----
 ### Business Development Executive | Kontinuum Kode
 📅 June 2024 - April 2025
 
@@ -48,6 +47,29 @@ Core Competencies: Data Pipeline Development • Cloud Architecture • Data Mod
 - Generated 70+ qualified leads through strategic outreach on Upwork and PeoplePerHour platforms.
 - Crafted technical proposals and maintained client relationships resulting in 5 successful project acquisitions.
 - Authored comprehensive SRS (Software Requirements Specification) and BRD (Business Requirements Document) documentation.
+
+---
+
+## Core Skills:
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1D3557?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-0061A8?style=for-the-badge&logo=airtable&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-1A73E8?style=for-the-badge&logo=dataiku&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC0E34?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- 
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-555555?style=for-the-badge&logo=gitlab&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+-->
 
 ---
 
