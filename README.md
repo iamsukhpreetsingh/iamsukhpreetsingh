@@ -31,18 +31,18 @@ I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on expe
 
 **Tech Stack:** `SQL` `PySpark` `Snowflake` `Python` `PostgreSQL`
 
-### Roles & Responsibilities:
+#### Roles & Responsibilities:
 
-– Collaborated with business teams to derive and implement 20+ KPIs in Snowflake, enabling accurate downstream Power BI reporting.
-– Migrated 15+ MySQL and Oracle stored procedures from on-premise systems to Snowflake, ensuring optimized and scalable execution.
-– Developed robust SQL and PySpark scripts for building aggregated views in Hive, supporting analytics and BI workflows.
-– Performed Data Unification and Integration in staging environments, improving cross-system data consistency and reliability.
-– Applied advanced PySpark transformation techniques to cleanse, normalize, and enrich large-scale datasets, ensuring high-quality data delivery for downstream analytics.
+- Collaborated with business teams to derive and implement 20+ KPIs in Snowflake, enabling accurate downstream Power BI reporting.
+- Migrated 15+ MySQL and Oracle stored procedures from on-premise systems to Snowflake, ensuring optimized and scalable execution.
+- Developed robust SQL and PySpark scripts for building aggregated views in Hive, supporting analytics and BI workflows.
+- Performed Data Unification and Integration in staging environments, improving cross-system data consistency and reliability.
+- Applied advanced PySpark transformation techniques to cleanse, normalize, and enrich large-scale datasets, ensuring high-quality data delivery for downstream analytics.
 
 ### Business Analyst | Kontinuum Kode
 📅 June 2024 - April 2025
 
-### Roles & Responsibilities:
+#### Roles & Responsibilities:
 
 - Served as Business analyst for forign transport client
 - Worked primarly on SQL to derive insights about business, collaborating with BI team.
