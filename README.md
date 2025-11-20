@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhpreet41/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_Now-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1dz0vH6DsMrVCfLsmeDjbMvyHxpiGhxJa?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Download_Now-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]()
 
 
 </div>
@@ -15,7 +15,6 @@
 
 I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on experience in building ETL/ELT pipelines, leveraging technologies like `PySpark`, `SQL`, `AWS`, `DBT` and `Snowflake` to transform raw data into actionable insights. 
 
-Core Competencies: Data Pipeline Development • Cloud Architecture • Data Modeling • Performance Optimization • Cross-functional Collaboration
 
 ---
 
@@ -34,19 +33,19 @@ Core Competencies: Data Pipeline Development • Cloud Architecture • Data Mod
 ### Roles & Responsibilities:
 
 - Developing SQL and PySpark scripts to build aggregated views in Hive, enabling the BI team to generate accurate business insights.
+- Appling PySpark-based data transformation techniques to cleanse, normalize, and enrich large-scale datasets, ensuring high-quality data for downstream analytics.
 - Designing and implemented staging ETL data pipelines using PySpark and Jupyter Notebooks, integrating data from diverse sources including APIs, JSON, Excel, and CSV files, and loading them into HDFS.
 - Performing data unification and integration tasks in the staging environment, improving data consistency and reliability across systems.
 - Preforming data mapping from diverse sources data like advertisement, suppliers, imports/exports data, etc and preforming data validations on the given data.
-- Appling PySpark-based data transformation techniques to cleanse, normalize, and enrich large-scale datasets, ensuring high-quality data for downstream analytics.
 
-### Business Development Executive | Kontinuum Kode
+### Business Analyst | Kontinuum Kode
 📅 June 2024 - April 2025
 
 ### Roles & Responsibilities:
 
-- Generated 70+ qualified leads through strategic outreach on Upwork and PeoplePerHour platforms.
-- Crafted technical proposals and maintained client relationships resulting in 5 successful project acquisitions.
-- Authored comprehensive SRS (Software Requirements Specification) and BRD (Business Requirements Document) documentation.
+- Served as Business analyst for forign transport client
+- Worked primarly on SQL to derive insights about business, collaborating with BI team.
+- Ocassionally Authored SRS (Software Requirements Specification) and BRD (Business Requirements Document) documentation.
 
 ---
 
