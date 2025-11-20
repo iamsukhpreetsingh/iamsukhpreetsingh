@@ -54,12 +54,10 @@ I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on expe
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-1D3557?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-4EA94B?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-0061A8?style=for-the-badge&logo=airtable&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-1A73E8?style=for-the-badge&logo=dataiku&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FC0E34?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-0061A8?style=for-the-badge&logo=airtable&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1D3557?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- 
