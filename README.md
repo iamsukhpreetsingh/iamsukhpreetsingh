@@ -33,17 +33,12 @@ I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on expe
 
 #### Roles & Responsibilities:
 
-– Collaborated with business stakeholders to simplify and restructure complex data models and legacy data architecture into modular, maintainable layers, improving scalability and long-term usability.
-
-– Refactored and optimized complex monolithic SQL queries in Snowflake, significantly improving query performance and reducing execution time by up to 60%.
-
-– Partnered with analytics teams to define and implement business-critical KPIs in Snowflake, enabling accurate downstream reporting in Power BI.
-
-– Implemented foundational dbt models on refactored SQL pipelines to establish data lineage, data documentation, and standardized data modeling practices, reducing maintenance and operational overhead by 60–70%.
-
-– Developed scalable SQL and PySpark pipelines to build aggregated datasets in Hive, supporting analytics and business intelligence use cases.
-
-– Performed data unification and integration across staging layers, improving cross-system data consistency, data reliability, and downstream consumption.
+- Collaborated with business stakeholders to simplify and restructure complex data models and legacy data architecture into modular, maintainable layers, improving scalability and long-term usability.
+- Refactored and optimized complex monolithic SQL queries in Snowflake, significantly improving query performance and reducing execution time by up to 60%.
+- Partnered with analytics teams to define and implement business-critical KPIs in Snowflake, enabling accurate downstream reporting in Power BI.
+- Implemented foundational dbt models on refactored SQL pipelines to establish data lineage, data documentation, and standardized data modeling practices, reducing maintenance and operational overhead by 60–70%.
+- Developed scalable SQL and PySpark pipelines to build aggregated datasets in Hive, supporting analytics and business intelligence use cases.
+- Performed data unification and integration across staging layers, improving cross-system data consistency, data reliability, and downstream consumption.
 
 
 ### Business Analyst | Kontinuum Kode
