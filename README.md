@@ -33,13 +33,12 @@ I am a **SnowPro Associate–certified** Junior Data Engineer with hands-on expe
 
 #### Roles & Responsibilities:
 
-- Collaborated with business stakeholders to simplify and restructure complex data models and legacy data architecture into modular, maintainable layers, improving scalability and long-term usability.
-- Refactored and optimized complex monolithic SQL queries in Snowflake, significantly improving query performance and reducing execution time by up to 60%.
-- Partnered with analytics teams to define and implement business-critical KPIs in Snowflake, enabling accurate downstream reporting in Power BI.
-- Implemented foundational dbt models on refactored SQL pipelines to establish data lineage, data documentation, and standardized data modeling practices, reducing maintenance and operational overhead by 60–70%.
-- Developed scalable SQL and PySpark pipelines to build aggregated datasets in Hive, supporting analytics and business intelligence use cases.
-- Performed data unification and integration across staging layers, improving cross-system data consistency, data reliability, and downstream consumption.
-
+- Assisted in implementing a scalable Medallion Architecture using Snowflake and dbt, helping migrate a legacy single-layer SQL reporting setup into modular, maintainable ELT pipelines.
+- Developed and maintained dbt models in Snowflake to build Curated and Marts data layers, transforming raw data into analytics-ready datasets used by downstream Business teams and dashboards.
+- Refactored complex Snowflake SQL transformations into modular dbt staging, intermediate, and mart models with incremental processing, cutting pipeline run time by 30–35% and reducing transformation code duplication.
+- Built and optimized 40+ Silver-layer tables in Snowflake for data cleansing, deduplication, standardization, and business rule implementation, reducing duplicate transformation logic by 15–20% and improving data quality across downstream reports.
+- Designed and implemented ETL pipelines using PySpark and Hive to ingest data from SQL Server sources into an on-premise Hive Data Warehouse.
+- Developed data ingestion workflows from SFTP to HDFS with validation, transformation, and Parquet-based loading, reducing storage footprint by 40–50% and improving query/load efficiency
 
 ### Business Analyst | Kontinuum Kode
 📅 June 2024 - April 2025
