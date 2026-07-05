@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Sukhpreet Singh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhpreet41/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
+[![Email](https://img.shields.io/badge/isukhpreetsingh12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isukhpreetsingh12@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_7009757892-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+917009757892)
 [![Resume](https://img.shields.io/badge/Resume-Download_Now-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tiny.cc/sukhpreetresume)
 
